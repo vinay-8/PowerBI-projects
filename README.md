@@ -19,9 +19,8 @@ Link to raw dataset : [Thyroid Cancer Risk Dataset](https://www.kaggle.com/datas
 ## Data Analysis and Visualizations
 
 Performed the three-step process ETL by extracting the raw dataset from Kaggle website and loading it into Microsoft Excel for data validation and data cleaning. Transformed the data using Power Query into Qualitative and Quantitative tables for better segregation and ease of access, added features by manipulating existing data columns, and loaded the transformed data into Power BI Desktop for further analysis and visualization. Used DAX to create many explicit measures and tables to aid in Dashboard building and did basic modeling to create relationships between the tables.
-![Project Logo](images/DAX_country_count.PNG)
 
-### DATA MODEL:
+![Project Logo](images/DAX_country_count.PNG)
 
 ![Project Logo](images/DataModel.PNG)
 
